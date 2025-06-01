@@ -69,11 +69,71 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "logo_list_JYPD6J": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_Ci6YYL": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vogue.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_ezFnAA": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Elle.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_DRLpgn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_dgKDFL": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_Ci6YYL",
+        "logo_ezFnAA",
+        "logo_DRLpgn",
+        "logo_dgKDFL"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "impact-text",
-    "image_with_text_overlay_ynAAkk"
+    "image_with_text_overlay_ynAAkk",
+    "logo_list_JYPD6J"
   ]
 }
