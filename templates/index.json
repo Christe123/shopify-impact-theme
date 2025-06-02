@@ -170,6 +170,31 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "before_after_image_PKBEkR": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avant et Après",
+        "content": "",
+        "before_image": "shopify://shop_images/Cream_12_2.jpg",
+        "after_image": "shopify://shop_images/Cream_12.jpg",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
     }
   },
   "order": [
@@ -178,6 +203,7 @@
     "image_with_text_overlay_ynAAkk",
     "logo_list_JYPD6J",
     "rich_text_kfhV7A",
-    "image_with_text_overlay_bDE8TF"
+    "image_with_text_overlay_bDE8TF",
+    "before_after_image_PKBEkR"
   ]
 }
