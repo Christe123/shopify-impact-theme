@@ -171,29 +171,150 @@
         "overlay_opacity": 0
       }
     },
-    "before_after_image_PKBEkR": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "rich_text_JGQmwC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hCLNYD": {
+          "type": "heading",
+          "settings": {
+            "text": "Avant/Après",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_hCLNYD"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Avant et Après",
-        "content": "",
-        "before_image": "shopify://shop_images/AVANT_APRES.jpg",
-        "after_image": "shopify://shop_images/AVANT_APRES_2.jpg",
-        "expand_image": false,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_pKWDYF": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_PezCy6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant1.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_6hCiBC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant3.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BwYeBD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant12.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_DQJ4DY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant2.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_G9JJUp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_T6DtzJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant5.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_f7VE6n": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Avant7.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_PezCy6",
+        "item_6hCiBC",
+        "item_BwYeBD",
+        "item_DQJ4DY",
+        "item_G9JJUp",
+        "item_T6DtzJ",
+        "item_f7VE6n"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "heading_color": "",
+        "heading_gradient": ""
       }
     }
   },
@@ -204,6 +325,7 @@
     "logo_list_JYPD6J",
     "rich_text_kfhV7A",
     "image_with_text_overlay_bDE8TF",
-    "before_after_image_PKBEkR"
+    "rich_text_JGQmwC",
+    "image_link_blocks_pKWDYF"
   ]
 }
