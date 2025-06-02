@@ -589,11 +589,18 @@
     "faq_wPY3qy": {
       "type": "faq",
       "blocks": {
-        "item_LzErTy": {
+        "item_je6WLJ": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que la crème fonctionne vraiment ?",
-            "content": "<p>Oui, la formule a été pensée pour des résultats visibles dès 7 à 14 jours. La peau paraît plus lisse, plus ferme, et les ridules s’estompent progressivement.</p>"
+            "title": "Est-ce adapté à tous les types de peau ?",
+            "content": "<p>Oui, la crème est formulée pour convenir à tous les types de peau, même sensibles. Mais en cas d’allergie connue, fais un test sur une petite zone.</p>"
+          }
+        },
+        "item_yBTCzQ": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de fois par jour dois-je l’utiliser ?",
+            "content": "<p>1 à 2 fois par jour suffisent, matin et/ou soir. La régularité est la clé.</p>"
           }
         },
         "item_CzDzLy": {
@@ -610,46 +617,11 @@
             "content": "<p>Absolument ! Beaucoup l’appliquent aussi sur le ventre, les bras ou la poitrine pour raffermir la peau relâchée.</p>"
           }
         },
-        "item_je6WLJ": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce adapté à tous les types de peau ?",
-            "content": "<p>Oui, la crème est formulée pour convenir à tous les types de peau, même sensibles. Mais en cas d’allergie connue, fais un test sur une petite zone.</p>"
-          }
-        },
-        "item_D9bjCY": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que le massage est obligatoire ?",
-            "content": "<p>Le rouleau massant est intégré à l’embout, donc le massage se fait automatiquement. Il améliore l’efficacité de la crème en stimulant la circulation.</p>"
-          }
-        },
-        "item_WfDVVU": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que ça colle ou laisse une sensation grasse ?",
-            "content": "<p>Non, la texture est légère, non collante, et pénètre rapidement. Tu peux l’utiliser le matin avant de sortir sans souci.</p>"
-          }
-        },
         "item_eHDP66": {
           "type": "item",
           "settings": {
             "title": "Est-ce que je peux l’appliquer avant de me maquiller ?",
             "content": "<p>Oui, elle peut être appliquée avant le maquillage, comme une base de soin. Attends juste 1 à 2 minutes pour que la crème soit bien absorbée.</p>"
-          }
-        },
-        "item_yBTCzQ": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de fois par jour dois-je l’utiliser ?",
-            "content": "<p>1 à 2 fois par jour suffisent, matin et/ou soir. La régularité est la clé.</p>"
-          }
-        },
-        "item_BwkzxE": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que c’est douloureux ou piquant à l’application ?",
-            "content": "<p>Pas du tout. La sensation est fraîche et agréable. Le massage est doux et apaisant.</p>"
           }
         },
         "item_w9eRdT": {
@@ -658,19 +630,47 @@
             "title": "Est-ce que les hommes peuvent aussi l’utiliser ?",
             "content": "<p>Bien sûr. Les bienfaits raffermissants ne sont pas réservés aux femmes. Elle convient à toute personne souhaitant une peau plus ferme et plus lisse.</p>"
           }
+        },
+        "item_VViDCM": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si la crème  Sikiva ne répond pas à mes attentes ?",
+            "content": "<p>Nous sommes sûrs que vous allez adorer notre crème Sikiva <br/>Toutefois, si vous n'ètes pas entièrement satisfait(e) et décidez de le renvoyer. nous vous garantirons un remboursement complet !</p>"
+          }
+        },
+        "item_wgU3zq": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que les hommes peuvent aussi l’utiliser ?",
+            "content": "<p>Bien sûr. Les bienfaits raffermissants ne sont pas réservés aux femmes. Elle convient à toute personne souhaitant une peau plus ferme et plus lisse.</p>"
+          }
+        },
+        "item_pVUjzr": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de la livraison?",
+            "content": "<p>Le delal de livraison dépend du volume de commandes à traiter et de votre localisation. Pour la France métropolitaine, la livraison prend généralement entre 2 et 8jours ouvrés. Pour les destinations à l'étranger et , hors France métropolitaine, le délai est de 3 à 10 jours ouvrés.<br/>Vous recevrez tous les détails de votre livraison par email</p>"
+          }
+        },
+        "item_7Qc3bU": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que vous livrez dans à l'étranger ?",
+            "content": "<p>Nous livrons dans tous le monde entier </p>"
+          }
         }
       },
       "block_order": [
-        "item_LzErTy",
+        "item_je6WLJ",
+        "item_yBTCzQ",
         "item_CzDzLy",
         "item_kKGmgH",
-        "item_je6WLJ",
-        "item_D9bjCY",
-        "item_WfDVVU",
         "item_eHDP66",
-        "item_yBTCzQ",
-        "item_BwkzxE",
-        "item_w9eRdT"
+        "item_w9eRdT",
+        "item_VViDCM",
+        "item_wgU3zq",
+        "item_pVUjzr",
+        "item_7Qc3bU"
       ],
       "name": "FAQ",
       "settings": {
