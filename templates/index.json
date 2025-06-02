@@ -585,6 +585,115 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_wPY3qy": {
+      "type": "faq",
+      "blocks": {
+        "item_LzErTy": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que la crème fonctionne vraiment ?",
+            "content": "<p>Oui, la formule a été pensée pour des résultats visibles dès 7 à 14 jours. La peau paraît plus lisse, plus ferme, et les ridules s’estompent progressivement.</p>"
+          }
+        },
+        "item_CzDzLy": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’elle fonctionne aussi sur les rides profondes ?",
+            "content": "<p>Oui. Elle ne les efface pas totalement, mais elle aide à les atténuer visiblement. Beaucoup de clientes disent voir un effet “comblant”.</p>"
+          }
+        },
+        "item_kKGmgH": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on l’utiliser sur d’autres zones que le cou ?",
+            "content": "<p>Absolument ! Beaucoup l’appliquent aussi sur le ventre, les bras ou la poitrine pour raffermir la peau relâchée.</p>"
+          }
+        },
+        "item_je6WLJ": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce adapté à tous les types de peau ?",
+            "content": "<p>Oui, la crème est formulée pour convenir à tous les types de peau, même sensibles. Mais en cas d’allergie connue, fais un test sur une petite zone.</p>"
+          }
+        },
+        "item_D9bjCY": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que le massage est obligatoire ?",
+            "content": "<p>Le rouleau massant est intégré à l’embout, donc le massage se fait automatiquement. Il améliore l’efficacité de la crème en stimulant la circulation.</p>"
+          }
+        },
+        "item_WfDVVU": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça colle ou laisse une sensation grasse ?",
+            "content": "<p>Non, la texture est légère, non collante, et pénètre rapidement. Tu peux l’utiliser le matin avant de sortir sans souci.</p>"
+          }
+        },
+        "item_eHDP66": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux l’appliquer avant de me maquiller ?",
+            "content": "<p>Oui, elle peut être appliquée avant le maquillage, comme une base de soin. Attends juste 1 à 2 minutes pour que la crème soit bien absorbée.</p>"
+          }
+        },
+        "item_yBTCzQ": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de fois par jour dois-je l’utiliser ?",
+            "content": "<p>1 à 2 fois par jour suffisent, matin et/ou soir. La régularité est la clé.</p>"
+          }
+        },
+        "item_BwkzxE": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que c’est douloureux ou piquant à l’application ?",
+            "content": "<p>Pas du tout. La sensation est fraîche et agréable. Le massage est doux et apaisant.</p>"
+          }
+        },
+        "item_w9eRdT": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que les hommes peuvent aussi l’utiliser ?",
+            "content": "<p>Bien sûr. Les bienfaits raffermissants ne sont pas réservés aux femmes. Elle convient à toute personne souhaitant une peau plus ferme et plus lisse.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_LzErTy",
+        "item_CzDzLy",
+        "item_kKGmgH",
+        "item_je6WLJ",
+        "item_D9bjCY",
+        "item_WfDVVU",
+        "item_eHDP66",
+        "item_yBTCzQ",
+        "item_BwkzxE",
+        "item_w9eRdT"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -598,6 +707,7 @@
     "image_link_blocks_pKWDYF",
     "multi_column_XhHd9n",
     "featured_product_k3P8zN",
-    "tabs_EqWKcy"
+    "tabs_EqWKcy",
+    "faq_wPY3qy"
   ]
 }
