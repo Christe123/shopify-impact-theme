@@ -316,6 +316,82 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "multi_column_XhHd9n": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Mr7FVC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7500303367856590110_hd 2.mov",
+            "column_size": "3",
+            "title": "Aurelle C.",
+            "heading_tag": "h4",
+            "content": "<p>Avant chaque sortie ou rendez-vous, je l’applique. C’est mon petit boost beauté. Le cou est bien lisse, bien hydraté. On dirait que j’ai fait un soin en institut !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7d67gz": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7497283179498229023_hd.mov",
+            "column_size": "3",
+            "title": "Julia B.",
+            "heading_tag": "h4",
+            "content": "<p>Maman de 3 enfants, mon ventre était froissé et relâché depuis des années. Par curiosité, j’ai essayé cette crème sur mon ventre au lieu du cou… et waouh. En quelques jours, j’ai vu ma peau se retendre doucement. Elle est plus lisse, plus souple. Je retrouve confiance en moi, petit à petit. Je me sens enfin mieux dans mon corps. Merci pour ce petit miracle !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_D7L9dC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7478970819868233003_hd.mov",
+            "column_size": "3",
+            "title": "Daria M.",
+            "heading_tag": "h4",
+            "content": "<p>J’ai 64 ans, et mon cou était très marqué. Après quelques jours d’application, ma peau est visiblement plus ferme et lisse. Je ne pensais pas voir un tel changement à mon âge.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RNT88K": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7421920714539797790_hd.mov",
+            "column_size": "3",
+            "title": "Divine G.",
+            "heading_tag": "h4",
+            "content": "<p>Pratique, propre, rapide. Je la mets dans mon sac quand je voyage. Un petit massage et hop, effet frais et raffermissant immédiat. Je l’adore.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Mr7FVC",
+        "item_7d67gz",
+        "item_D7L9dC",
+        "item_RNT88K"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -326,6 +402,7 @@
     "rich_text_kfhV7A",
     "image_with_text_overlay_bDE8TF",
     "rich_text_JGQmwC",
-    "image_link_blocks_pKWDYF"
+    "image_link_blocks_pKWDYF",
+    "multi_column_XhHd9n"
   ]
 }
