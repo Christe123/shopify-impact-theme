@@ -396,9 +396,11 @@
     "featured_product_k3P8zN": {
       "type": "featured-product",
       "blocks": {
-        "vendor_RhjWNi": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_YjNkXe": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Trustpilot Stars</title> </head> <body> <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\"> <span style=\"font-size: 25px; font-weight: bold; color: #000;\">4.8</span> <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 120px; height: auto;\"> <span style=\"font-size: 23px; color: #555;\">(567 avis)</span> </a> </body> </html>"
+          }
         },
         "title_CJYGqf": {
           "type": "title",
@@ -414,6 +416,20 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_dmn6AV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stoks: 3 restants</div>\n</div>"
+          }
+        },
+        "image_riDpnz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/brusheo_promo.webp",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "rating_pLTn4H": {
@@ -446,10 +462,18 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_BwbFJQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Offre-cadeau.webp",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "buy_buttons_PipGRi": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -460,27 +484,23 @@
         "pickup_availability_HPaRHU": {
           "type": "pickup_availability",
           "settings": {}
-        },
-        "liquid_YjNkXe": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .trustpilot-score {\n    text-align: left; /* Align the content to the left */\n    margin-top: 10px; /* Add some space above the score */\n  }\n\n  .trustpilot-score p {\n    display: inline; /* Display the text inline */\n    vertical-align: middle; /* Align the content vertically */\n    margin: 0; /* Remove any default margins */\n    font-weight: bold; /* Increase font weight */\n  }\n\n  .trustpilot-score img {\n    max-width: 100px; /* Set maximum width to 100px */\n    height: auto; /* Maintain aspect ratio */\n    margin-left: 10px; /* Add some space between the images */\n    vertical-align: middle; /* Align the images vertically */\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <p>Excellent</p>\n  <img src=\"Insert shopify image A link here\">\n  <img src=\"Insert shopify image B link here\">\n</div>"
-          }
         }
       },
       "block_order": [
-        "vendor_RhjWNi",
+        "liquid_YjNkXe",
         "title_CJYGqf",
         "badges_mhM4hj",
         "price_CqwwYU",
+        "liquid_dmn6AV",
+        "image_riDpnz",
         "rating_pLTn4H",
         "separator_BaNrTc",
         "description_yVxm3q",
         "variant_picker_wqb7NP",
         "quantity_selector_pdcNke",
+        "image_BwbFJQ",
         "buy_buttons_PipGRi",
-        "pickup_availability_HPaRHU",
-        "liquid_YjNkXe"
+        "pickup_availability_HPaRHU"
       ],
       "name": "Featured product",
       "settings": {
