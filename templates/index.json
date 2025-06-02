@@ -465,7 +465,7 @@
         "image_BwbFJQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Offre-cadeau.webp",
+            "image": "shopify://shop_images/En_cadeau.jpg",
             "alignment": "center",
             "max_width": 500
           }
@@ -579,7 +579,7 @@
         "subheading": "",
         "title": "",
         "first_tab_open": false,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -684,7 +684,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -705,12 +705,12 @@
         "content": "<p>Ecrivez via le formulais ci-dessous et nous repondrons dans les plus brefs délais.</p>",
         "text_position": "center",
         "contact_form_size": "large",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "",
+        "contact_background": "#ffffff",
         "contact_text_color": "",
         "button_background": "",
         "button_text_color": ""
