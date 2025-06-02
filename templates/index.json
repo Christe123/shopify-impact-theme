@@ -529,6 +529,53 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_EqWKcy": {
+      "type": "tabs",
+      "blocks": {
+        "tab_HbVnnH": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p>-Crème raffermissante pour le cou et le décolleté<br/><br/>-Texture légère, non grasse, pénètre rapidement<br/><br/>-Applicateur massant à 360°, effet frais et stimulant<br/><br/>-Formule enrichie en AH-8, céramides et acide hyaluronique<br/><br/>-Aide à lisser les rides et raffermir la peau<br/>Stimule la circulation pour une meilleure absorption<br/><br/>-Convient à tous types de peau<br/>Peut être utilisée sur le ventre, les bras ou la poitrine<br/><br/>-Format compact, facile à transporter<br/>Application propre, sans contact avec les mains<br/><br/>-Résultats visibles dès 7 à 14 jours<br/><br/>-Amélioration progressive sur 28 jours<br/><br/>-Utilisation recommandée : matin et soir<br/>Idéal pour les femmes de tout âge<br/></p>",
+            "page": ""
+          }
+        },
+        "tab_VRJjjz": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 30jours  Gratuitement",
+            "content": "<p>E</p>",
+            "page": ""
+          }
+        },
+        "tab_NG3MJC": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_HbVnnH",
+        "tab_VRJjjz",
+        "tab_NG3MJC"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "Heading",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -541,6 +588,7 @@
     "rich_text_JGQmwC",
     "image_link_blocks_pKWDYF",
     "multi_column_XhHd9n",
-    "featured_product_k3P8zN"
+    "featured_product_k3P8zN",
+    "tabs_EqWKcy"
   ]
 }
