@@ -104,6 +104,7 @@
       "blocks": {
         "newsletter": {
           "type": "newsletter",
+          "disabled": true,
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
@@ -120,6 +121,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "title": "About",
             "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
