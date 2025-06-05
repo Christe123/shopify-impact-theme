@@ -197,333 +197,101 @@
         "text_color": ""
       }
     },
-    "featured_product_k3P8zN": {
-      "type": "featured-product",
-      "blocks": {
-        "liquid_YjNkXe": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Trustpilot Stars</title> </head> <body> <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\"> <span style=\"font-size: 25px; font-weight: bold; color: #000;\">4.8</span> <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 120px; height: auto;\"> <span style=\"font-size: 23px; color: #555;\">(567 avis)</span> </a> </body> </html>"
-          }
-        },
-        "title_CJYGqf": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_mhM4hj": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_CqwwYU": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "liquid_dmn6AV": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stoks: 3 restants</div>\n</div>"
-          }
-        },
-        "image_riDpnz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/brusheo_promo.webp",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "rating_pLTn4H": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_BaNrTc": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_yVxm3q": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_wqb7NP": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_pdcNke": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "image_BwbFJQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/En_cadeau.jpg",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "buy_buttons_PipGRi": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_HPaRHU": {
-          "type": "pickup_availability",
-          "settings": {}
-        },
-        "image_kVcHAg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/badge_confianc_CTA.webp",
-            "alignment": "center",
-            "max_width": 500
-          }
-        }
-      },
-      "block_order": [
-        "liquid_YjNkXe",
-        "title_CJYGqf",
-        "badges_mhM4hj",
-        "price_CqwwYU",
-        "liquid_dmn6AV",
-        "image_riDpnz",
-        "rating_pLTn4H",
-        "separator_BaNrTc",
-        "description_yVxm3q",
-        "variant_picker_wqb7NP",
-        "quantity_selector_pdcNke",
-        "image_BwbFJQ",
-        "buy_buttons_PipGRi",
-        "pickup_availability_HPaRHU",
-        "image_kVcHAg"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "creme-reparateur-de-la-peau-crepue",
-        "desktop_media_width": 50,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "#ffffff",
-        "input_text_color": ""
-      }
-    },
-    "tabs_EqWKcy": {
-      "type": "tabs",
-      "blocks": {
-        "tab_HbVnnH": {
-          "type": "tab",
-          "settings": {
-            "title": "Caractéristiques",
-            "content": "<p>-Crème raffermissante pour le cou et le décolleté<br/><br/>-Texture légère, non grasse, pénètre rapidement<br/><br/>-Applicateur massant à 360°, effet frais et stimulant<br/><br/>-Formule enrichie en AH-8, céramides et acide hyaluronique<br/><br/>-Aide à lisser les rides et raffermir la peau<br/>Stimule la circulation pour une meilleure absorption<br/><br/>-Convient à tous types de peau<br/>Peut être utilisée sur le ventre, les bras ou la poitrine<br/><br/>-Format compact, facile à transporter<br/>Application propre, sans contact avec les mains<br/><br/>-Résultats visibles dès 7 à 14 jours<br/><br/>-Amélioration progressive sur 28 jours<br/><br/>-Utilisation recommandée : matin et soir<br/>Idéal pour les femmes de tout âge<br/></p>",
-            "page": ""
-          }
-        },
-        "tab_VRJjjz": {
-          "type": "tab",
-          "settings": {
-            "title": "Essayez-le 30jours  Gratuitement",
-            "content": "<p>Essayez Sikiva crème sans risque<strong> pendant 30jours</strong>. Si vous n'êtree pas complètement satisfaite du Sikiva crème vous avez la possibilité de le retourner et vous recevrez un <strong>remboursement intégral.</strong></p>",
-            "page": ""
-          }
-        },
-        "tab_NG3MJC": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison gratuite à domicile",
-            "content": "<p>La livraison gratuite a domicile est gratuite. Selon le volume de commande à traiter,le délai de livraison est estimé entre 5 à 10jours ouvrés.</p>",
-            "page": ""
-          }
-        },
-        "tab_h3QAL9": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7j/7",
-            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.<br/>Vous pouvez nous contacter par email ou téléphone aux horaires suivants: du lundi au vendredi<br/>de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h a 12h. N'hésitez pas à nous-joindre</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_HbVnnH",
-        "tab_VRJjjz",
-        "tab_NG3MJC",
-        "tab_h3QAL9"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "first_tab_open": false,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "faq_wPY3qy": {
-      "type": "faq",
-      "blocks": {
-        "item_je6WLJ": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce adapté à tous les types de peau ?",
-            "content": "<p>Oui, la crème est formulée pour convenir à tous les types de peau, même sensibles. Mais en cas d’allergie connue, fais un test sur une petite zone.</p>"
-          }
-        },
-        "item_yBTCzQ": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de fois par jour dois-je l’utiliser ?",
-            "content": "<p>1 à 2 fois par jour suffisent, matin et/ou soir. La régularité est la clé.</p>"
-          }
-        },
-        "item_CzDzLy": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce qu’elle fonctionne aussi sur les rides profondes ?",
-            "content": "<p>Oui. Elle ne les efface pas totalement, mais elle aide à les atténuer visiblement. Beaucoup de clientes disent voir un effet “comblant”.</p>"
-          }
-        },
-        "item_kKGmgH": {
-          "type": "item",
-          "settings": {
-            "title": "Peut-on l’utiliser sur d’autres zones que le cou ?",
-            "content": "<p>Absolument ! Beaucoup l’appliquent aussi sur le ventre, les bras ou la poitrine pour raffermir la peau relâchée.</p>"
-          }
-        },
-        "item_eHDP66": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que je peux l’appliquer avant de me maquiller ?",
-            "content": "<p>Oui, elle peut être appliquée avant le maquillage, comme une base de soin. Attends juste 1 à 2 minutes pour que la crème soit bien absorbée.</p>"
-          }
-        },
-        "item_w9eRdT": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que les hommes peuvent aussi l’utiliser ?",
-            "content": "<p>Bien sûr. Les bienfaits raffermissants ne sont pas réservés aux femmes. Elle convient à toute personne souhaitant une peau plus ferme et plus lisse.</p>"
-          }
-        },
-        "item_VViDCM": {
-          "type": "item",
-          "settings": {
-            "title": "Que faire si la crème  Sikiva ne répond pas à mes attentes ?",
-            "content": "<p>Nous sommes sûrs que vous allez adorer notre crème Sikiva <br/>Toutefois, si vous n'ètes pas entièrement satisfait(e) et décidez de le renvoyer. nous vous garantirons un remboursement complet !</p>"
-          }
-        },
-        "item_wgU3zq": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que les hommes peuvent aussi l’utiliser ?",
-            "content": "<p>Bien sûr. Les bienfaits raffermissants ne sont pas réservés aux femmes. Elle convient à toute personne souhaitant une peau plus ferme et plus lisse.</p>"
-          }
-        },
-        "item_pVUjzr": {
-          "type": "item",
-          "settings": {
-            "title": "Quel est le délai de la livraison?",
-            "content": "<p>Le delal de livraison dépend du volume de commandes à traiter et de votre localisation. Pour la France métropolitaine, la livraison prend généralement entre 2 et 8jours ouvrés. Pour les destinations à l'étranger et , hors France métropolitaine, le délai est de 3 à 10 jours ouvrés.<br/>Vous recevrez tous les détails de votre livraison par email</p>"
-          }
-        },
-        "item_7Qc3bU": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que vous livrez dans à l'étranger ?",
-            "content": "<p>Nous livrons dans tous le monde entier </p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_je6WLJ",
-        "item_yBTCzQ",
-        "item_CzDzLy",
-        "item_kKGmgH",
-        "item_eHDP66",
-        "item_w9eRdT",
-        "item_VViDCM",
-        "item_wgU3zq",
-        "item_pVUjzr",
-        "item_7Qc3bU"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
-    "contact_ccniiN": {
-      "type": "contact",
-      "name": "Contact form",
-      "settings": {
-        "full_width": true,
-        "subheading": "Notre service client est disponible 7j/7.Temps de reponse moyen :24h",
-        "title": "Une question?",
-        "content": "<p>Ecrivez via le formulais ci-dessous et nous repondrons dans les plus brefs délais.</p>",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "#ffffff",
-        "contact_text_color": "",
-        "button_background": "#ba9917",
-        "button_text_color": ""
-      }
-    },
-    "multi_column_ei74py": {
+    "multi_column_ChBWtg": {
       "type": "multi-column",
       "blocks": {
-        "item_UP6aci": {
+        "item_deqmkY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT4.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hcQBGY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT5.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BxrjLj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT6.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WF6z6z": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT1.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_m4kfwF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT3.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_A4qdBh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8tjfbB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT9.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DRxa4f": {
           "type": "item",
           "settings": {
             "column_size": "3",
@@ -535,19 +303,7 @@
             "link_style": "link"
           }
         },
-        "item_NFaCmN": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_W7MwiB": {
+        "item_c3pzAV": {
           "type": "item",
           "settings": {
             "column_size": "3",
@@ -561,19 +317,25 @@
         }
       },
       "block_order": [
-        "item_UP6aci",
-        "item_NFaCmN",
-        "item_W7MwiB"
+        "item_deqmkY",
+        "item_hcQBGY",
+        "item_BxrjLj",
+        "item_WF6z6z",
+        "item_m4kfwF",
+        "item_A4qdBh",
+        "item_8tjfbB",
+        "item_DRxa4f",
+        "item_c3pzAV"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clientes en parlent le mieux",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -588,10 +350,6 @@
     "rich_text_kfhV7A",
     "image_with_text_overlay_bDE8TF",
     "rich_text_JGQmwC",
-    "featured_product_k3P8zN",
-    "tabs_EqWKcy",
-    "faq_wPY3qy",
-    "contact_ccniiN",
-    "multi_column_ei74py"
+    "multi_column_ChBWtg"
   ]
 }
