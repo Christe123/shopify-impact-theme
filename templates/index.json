@@ -141,6 +141,46 @@
         "text_color": ""
       }
     },
+    "rich_text_JHDcen": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ED3MBL": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_E3akDc": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir cette crème anti-âge pro ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_mijjnB": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ED3MBL",
+        "heading_E3akDc",
+        "richtext_mijjnB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_bDE8TF": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -325,19 +365,6 @@
         "title": "Nos clientes en parlent le mieux",
         "content": "",
         "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_h7QtRq": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Trustpilot Stars</title> </head> <body> <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\"> <span style=\"font-size: 25px; font-weight: bold; color: #000;\">4.8</span> <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 120px; height: auto;\"> <span style=\"font-size: 23px; color: #555;\">(Noté 4.8 par +1000 Clientes )</span> </a> </body> </html>",
-        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -894,10 +921,10 @@
     "image_with_text_overlay_ynAAkk",
     "logo_list_JYPD6J",
     "rich_text_kfhV7A",
+    "rich_text_JHDcen",
     "image_with_text_overlay_bDE8TF",
     "rich_text_JGQmwC",
     "multi_column_ChBWtg",
-    "custom_liquid_h7QtRq",
     "featured_product_JChDQP",
     "tabs_d7EynE",
     "multi_column_qCfa3X",
