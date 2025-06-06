@@ -62,7 +62,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/SIKIVA.jpg",
-        "mobile_image": "shopify://shop_images/Baniere_tel.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_ban_tel.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
