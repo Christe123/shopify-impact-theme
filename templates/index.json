@@ -557,6 +557,96 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "multi_column_qCfa3X": {
+      "type": "multi-column",
+      "blocks": {
+        "item_CBMdfH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_2.webp",
+            "column_size": "3",
+            "title": "Peptides de collagène",
+            "heading_tag": "h4",
+            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UjiiTG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/elastyn.webp",
+            "column_size": "3",
+            "title": "Élastine",
+            "heading_tag": "h4",
+            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dMLGie": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_4.webp",
+            "column_size": "3",
+            "title": "Acide hyaluronique",
+            "heading_tag": "h4",
+            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zXVgf3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_1.webp",
+            "column_size": "3",
+            "title": "Glycérine",
+            "heading_tag": "h4",
+            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XhQG4N": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/squalane_6.png",
+            "column_size": "3",
+            "title": "Squalane",
+            "heading_tag": "h4",
+            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_CBMdfH",
+        "item_UjiiTG",
+        "item_dMLGie",
+        "item_zXVgf3",
+        "item_XhQG4N"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ingrédients testés cliniquement",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -570,6 +660,7 @@
     "multi_column_ChBWtg",
     "custom_liquid_h7QtRq",
     "featured_product_JChDQP",
-    "tabs_d7EynE"
+    "tabs_d7EynE",
+    "multi_column_qCfa3X"
   ]
 }
