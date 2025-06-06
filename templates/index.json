@@ -754,28 +754,6 @@
         "heading_gradient": ""
       }
     },
-    "accordion_content_fQdGnt": {
-      "type": "accordion-content",
-      "name": "Accordion content",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Pourquoi choisir ce crème anti-âge?",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "faq_tan8yJ": {
       "type": "faq",
       "blocks": {
@@ -931,7 +909,6 @@
     "images_with_text_scrolling_dKfk8T",
     "images_with_text_scrolling_hYfqgz",
     "images_with_text_scrolling_CmKmxW",
-    "accordion_content_fQdGnt",
     "faq_tan8yJ",
     "contact_7tT8Qm"
   ]
