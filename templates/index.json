@@ -443,6 +443,19 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "custom_liquid_h7QtRq": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Trustpilot Stars</title> </head> <body> <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\"> <span style=\"font-size: 25px; font-weight: bold; color: #000;\">4.8</span> <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 120px; height: auto;\"> <span style=\"font-size: 23px; color: #555;\">(Noté 4.8 par +1000 Clientes )</span> </a> </body> </html>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -454,6 +467,7 @@
     "image_with_text_overlay_bDE8TF",
     "rich_text_JGQmwC",
     "multi_column_ChBWtg",
-    "featured_product_gH4DLf"
+    "featured_product_gH4DLf",
+    "custom_liquid_h7QtRq"
   ]
 }
