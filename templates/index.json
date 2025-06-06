@@ -531,8 +531,8 @@
         "tab_wePrWT": {
           "type": "tab",
           "settings": {
-            "title": "90 jours satisfait ou remboursé",
-            "content": "<p>Essayer Sikiva crème anti-âge  sans risque <strong>pendant 90 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander<strong>un remboursement intégral</strong>.</p>",
+            "title": "30 jours satisfait ou remboursé",
+            "content": "<p>Essayer Sikiva crème anti-âge  sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander<strong>un remboursement intégral</strong>.</p>",
             "page": ""
           }
         }
@@ -740,6 +740,145 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "accordion_content_fQdGnt": {
+      "type": "accordion-content",
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Pourquoi choisir ce crème anti-âge?",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "faq_tan8yJ": {
+      "type": "faq",
+      "blocks": {
+        "item_fJcPgj": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison?",
+            "content": "<p>Suite au grand succès de notre produit les délais de livraison sont les suivant:<br/>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 14 jours ouvrés</p>"
+          }
+        },
+        "item_y9kgxh": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle vitesse verrai-je les résultats  ?",
+            "content": "<p>Dès votre premier traitement, vous remarquerez que votre peau devient plus lisse, plus rebondie et plus hydratée. De nombreux utilisateurs constatent même une réduction visible des rides fines après une seule séance.<br/><br/>Bien que les résultats puissent apparaître rapidement, la transformation la plus significative se produit généralement après environ 4 à 6 traitements répartis sur 12 semaines (3 mois).<br/><br/>La raison est simple : des études montrent que ce traitement peut augmenter la production de collagène de 76 % au fil du temps.<br/><br/>Cela signifie que vos rides, ridules et peau relâchée seront considérablement réduites. C’est pourquoi les dermatologues recommandent de poursuivre ce traitement pendant au moins 3 mois pour obtenir les meilleurs résultats.</p>"
+          }
+        },
+        "item_bHMnTp": {
+          "type": "item",
+          "settings": {
+            "title": "Où puis-je l'utiliser?",
+            "content": "<p>Ce système fonctionne <strong>presque partout</strong>, car le vieillissement de la peau sur l’ensemble du corps est dû à<strong>la perte de collagène</strong>.<br/><br/>En l’utilisant régulièrement (une à deux fois par semaine), tu <strong>stimules la production naturelle de collagène</strong>, et ta peau devient <strong>plus ferme, plus lisse, plus jeune</strong>.</p><p>Voici toutes les zones où tu peux appliquer ce soin réparateur :</p><p>✔ <strong>Rides du front</strong><br/><br/>✔ <strong>Rides du lion </strong>(entre les sourcils)<br/><br/>✔<strong> Pattes d’oie</strong> (coins des yeux)<br/><br/>✔ <strong>Rides autour des yeux</strong><br/><br/>✔ <strong>Rides du nez</strong> (“bunny lines”)<br/><br/>✔ <strong>Menton irrégulier</strong> (“strawberry chin”)<br/><br/>✔ <strong>Sillons nasogéniens </strong>(du nez vers la bouche)<br/><br/>✔ <strong>Rides du fumeur</strong> (autour de la bouche)<br/><br/>✔ <strong>Plis d’amertume</strong> (coins des lèvres)<br/><br/>✔ <strong>Relâchement du cou</strong> (“turkey neck”)<br/><br/>✔ <strong>Bras froissés ou relâchés</strong><br/><br/>✔ <strong>Peau fripée sur les cuisses</strong><br/><br/>✔ <strong>Ventre ou bas du dos relâché</strong><br/><br/>✔ <strong>Zone du décolleté et de la poitrine</strong></p><p><strong>Un seul soin, pour toutes les zones où ta peau demande plus de fermeté, de douceur et de jeunesse.</strong></p>"
+          }
+        },
+        "item_BcbbLq": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que c'est efficace pour les hommes",
+            "content": "<p>Absolument !<br/><br/><strong>la Crème Anti-Âge Pro Soin Réparateur Sikiva</strong>  est conçu pour tous les types de peau et fonctionne aussi bien pour les hommes que pour les femmes.<br/><br/>Il cible efficacement les problèmes de peau courants tels que les ridules, les rides, les taches sombres et les textures irrégulières, quel que soit le genre. Les hommes peuvent bénéficier des mêmes avantages de régénération et d'amélioration de la peau que les femmes.</p>"
+          }
+        },
+        "item_RLmYcV": {
+          "type": "item",
+          "settings": {
+            "title": "S’agit-il simplement d’une solution temporaire ou donne-t-elle des résultats durables ?",
+            "content": "<p>Contrairement aux produits qui se contentent de poser en surface, notre soin agit à plusieurs niveaux de la peau pour offrir des bienfaits progressifs et cumulatifs. Avec une utilisation continue, vous constaterez des améliorations durables de l'élasticité et de la texture de la peau, et non une simple hydratation temporaire.</p>"
+          }
+        },
+        "item_qaJ6km": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il adapté aux peaux sensibles ?",
+            "content": "<p>Oui ! Notre formule contient des ingrédients naturels et non toxiques, sans produits chimiques agressifs, parfums artificiels ni irritants courants. Elle est spécialement équilibrée pour être efficace tout en restant suffisamment douce pour les peaux sensibles.</p>"
+          }
+        },
+        "item_HmQWtR": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les ingredients",
+            "content": "<p>Acide hyaluronique, beurre de karité, huile de graines de carthame et aloe vera</p><h5><strong>Liste complète des ingrédients</strong></h5><p>Eau, jus de feuille d'Aloe Barbadensis (Aloe Vera), huile d'Olea Europaea (Olive), huile de Cocos Nucifera (Noix de coco), huile de noyau de Prunus Armeniaca (Abricot), cire émulsifiante, glycérine, alcool cétylique, phénoxyéthanol, acide benzoïque, éthylhexylglycérine, Glycereth-2 Cocoate, beurre de Butyrospermum Parkii (Karité), acide stéarique, collagène soluble, huile de graines de Ricinus Communis (Ricin), acide glycolique, acide hyaluronique, huile de graines de Macadamia Integrifolia, huile de graines de Plukenetia Volubilis (Sacha Inchi), benzoate de sodium, tocophérol, extrait de miel</p><p><strong>Libre de</strong></p><p>Parabènes, phtalates, sulfates, parfums synthétiques, colorants artificiels, produits chimiques agressifs et ingrédients OGM</p><p><strong>Notre formule est :</strong></p><p>Non gras, absorption rapide, convient aux peaux sensibles, sans cruauté et testé dermatologiquement</p>"
+          }
+        },
+        "item_ipr7xn": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ce produit aide à atténuer les rides trop profond",
+            "content": "<p>Oui,<strong>la Crème Anti-Âge Pro Soin Réparateur Sikiva</strong>  peut améliorer l'apparence des rides profondes en stimulant la production de collagène et en hydratant la peau.<br/><br/>Cependant, il est important de noter que les résultats pour les rides très profondes peuvent mettre plus de temps à se manifester, généralement autour de 1 à 3 mois d’utilisation régulière.<br/><br/>La patience et des traitements constants sont essentiels pour observer des améliorations notables.</p>"
+          }
+        },
+        "item_VQxAP7": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ce produit aide à atténuer les cicatrices",
+            "content": "<p><strong>Oui</strong>, <strong>la Crème Anti-Âge Pro Soin Réparateur Sikiva</strong> peut améliorer l'apparence de certains types de cicatrices, comme les cicatrices d'acné ou les cicatrices superficielles mineures.<br/><br/>Le processus de microneedling stimule la production de collagène, ce qui peut aider à lisser et à estomper les cicatrices au fil du temps.<br/><br/>Cependant, pour les cicatrices profondes ou sévères, les résultats peuvent varier. Toutefois, soyez assuré que notre garantie de remboursement de 30 jours reste valable pour toutes les commandes.</p>"
+          }
+        },
+        "item_p7YwPn": {
+          "type": "item",
+          "settings": {
+            "title": "Ce soin s’intègre-t-il facilement dans ma routine ?",
+            "content": "<p>Que tu aies une routine simple ou plus complète, <strong>la Crème Anti-Âge Pro Soin Réparateur Sikiva</strong> s’adapte à ton rythme.</p><p><strong>Elle peut être utilisée seule</strong> ou après ton nettoyant habituel.<br/><strong>Pas besoin de 10 étapes</strong> : une application ciblée suffit pour voir des résultats.<br/><strong>Compatible avec les autres soins</strong> : sérums, huiles, crèmes hydratantes, etc.<br/><strong>Utilisation flexible</strong> : matin ou soir, selon tes préférences.<br/><strong>Convient même aux personnes pressées</strong><br/><br/>En résumé : que tu sois minimaliste ou adepte des routines complètes, cette crème s’intègre sans effort et amplifie les résultats de ton soin quotidien.</p>"
+          }
+        },
+        "item_VgGn9y": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si la Crème Anti-Âge Pro Soin Réparateur Sikiva ne répond pas à mes attentes ?",
+            "content": "<p>Nous  sommes sûrs  que vous allez adorer votre nouvelle  Crème Anti-Âge Pro Soin Réparateur Sikiva!<br/>Toutefois, si vous n'êtes pas entièrement satisfait(e) et décidez de le renvoyer, nous vous garantirons un remboursement complet</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fJcPgj",
+        "item_y9kgxh",
+        "item_bHMnTp",
+        "item_BcbbLq",
+        "item_RLmYcV",
+        "item_qaJ6km",
+        "item_HmQWtR",
+        "item_ipr7xn",
+        "item_VQxAP7",
+        "item_p7YwPn",
+        "item_VgGn9y"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -757,6 +896,8 @@
     "multi_column_qCfa3X",
     "images_with_text_scrolling_dKfk8T",
     "images_with_text_scrolling_hYfqgz",
-    "images_with_text_scrolling_CmKmxW"
+    "images_with_text_scrolling_CmKmxW",
+    "accordion_content_fQdGnt",
+    "faq_tan8yJ"
   ]
 }
