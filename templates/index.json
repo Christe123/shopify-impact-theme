@@ -294,18 +294,7 @@
         "item_DRxa4f": {
           "type": "item",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_c3pzAV": {
-          "type": "item",
-          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT8.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -324,14 +313,13 @@
         "item_m4kfwF",
         "item_A4qdBh",
         "item_8tjfbB",
-        "item_DRxa4f",
-        "item_c3pzAV"
+        "item_DRxa4f"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "x-large",
         "text_alignment": "center",
         "subheading": "",
         "title": "Nos clientes en parlent le mieux",
