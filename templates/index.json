@@ -200,88 +200,10 @@
     "multi_column_ChBWtg": {
       "type": "multi-column",
       "blocks": {
-        "item_deqmkY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/SIKIVA.AVANT4.png",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hcQBGY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/SIKIVA.AVANT5.png",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_BxrjLj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/SIKIVA.AVANT6.png",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_WF6z6z": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/SIKIVA.AVANT1.png",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_m4kfwF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/SIKIVA.AVANT3.png",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_A4qdBh": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/SIKIVA.AVANT2.png",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8tjfbB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/SIKIVA.AVANT9.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -304,6 +226,32 @@
             "link_style": "link"
           }
         },
+        "item_8tjfbB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT9.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_A4qdBh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_ihxVdy": {
           "type": "item",
           "settings": {
@@ -316,18 +264,70 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_BxrjLj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT6.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hcQBGY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT5.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_deqmkY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT4.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_m4kfwF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT3.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "item_deqmkY",
-        "item_hcQBGY",
-        "item_BxrjLj",
         "item_WF6z6z",
-        "item_m4kfwF",
-        "item_A4qdBh",
-        "item_8tjfbB",
         "item_DRxa4f",
-        "item_ihxVdy"
+        "item_8tjfbB",
+        "item_A4qdBh",
+        "item_ihxVdy",
+        "item_BxrjLj",
+        "item_hcQBGY",
+        "item_deqmkY",
+        "item_m4kfwF"
       ],
       "name": "Multi-column",
       "settings": {
