@@ -294,6 +294,19 @@
         "item_DRxa4f": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/SIKIVA.AVANT7.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ihxVdy": {
+          "type": "item",
+          "settings": {
             "image": "shopify://shop_images/SIKIVA.AVANT8.png",
             "column_size": "3",
             "title": "Column title",
@@ -313,7 +326,8 @@
         "item_m4kfwF",
         "item_A4qdBh",
         "item_8tjfbB",
-        "item_DRxa4f"
+        "item_DRxa4f",
+        "item_ihxVdy"
       ],
       "name": "Multi-column",
       "settings": {
