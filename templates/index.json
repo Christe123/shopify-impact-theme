@@ -343,46 +343,75 @@
         "text_color": ""
       }
     },
-    "featured_product_gH4DLf": {
+    "custom_liquid_h7QtRq": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Trustpilot Stars</title> </head> <body> <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\"> <span style=\"font-size: 25px; font-weight: bold; color: #000;\">4.8</span> <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 120px; height: auto;\"> <span style=\"font-size: 23px; color: #555;\">(Noté 4.8 par +1000 Clientes )</span> </a> </body> </html>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_JChDQP": {
       "type": "featured-product",
       "blocks": {
-        "vendor_7m9Wka": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_VUKxxj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Trustpilot Stars</title> </head> <body> <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\"> <span style=\"font-size: 25px; font-weight: bold; color: #000;\">4.8</span> <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 120px; height: auto;\"> <span style=\"font-size: 23px; color: #555;\">(Noté 4.8 par +1000 Clientes)</span> </a> </body> </html>"
+          }
         },
-        "title_Pwnme8": {
+        "title_ewGRaX": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges_Hc4MGU": {
+        "badges_RT7XtB": {
           "type": "badges",
           "settings": {}
         },
-        "price_BwwAic": {
+        "price_BNDVCm": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "rating_edLtLB": {
+        "liquid_4MRaMr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stock:3restants</div>\n</div>"
+          }
+        },
+        "image_BtFRKc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/brusheo_promo.webp",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
+        "rating_qDLgW6": {
           "type": "rating",
           "settings": {
             "show_empty": false
           }
         },
-        "separator_mkzKJp": {
+        "separator_WhPrX7": {
           "type": "separator",
           "settings": {}
         },
-        "description_xJqkAY": {
+        "description_pC9CxM": {
           "type": "description",
           "settings": {
             "collapse_content": false
           }
         },
-        "variant_picker_WeQFWe": {
+        "variant_picker_h7M3Ph": {
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
@@ -392,38 +421,58 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_NkhUTz": {
+        "quantity_selector_A8TENc": {
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons_VGyPhc": {
+        "image_LBYt4N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/En_cadeau.jpg",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
+        "buy_buttons_q6aLCc": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#277e49",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_HHGFQW": {
+        "pickup_availability_NBRpbB": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "image_6irNRV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badge_confianc_CTA.webp",
+            "alignment": "start",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
-        "vendor_7m9Wka",
-        "title_Pwnme8",
-        "badges_Hc4MGU",
-        "price_BwwAic",
-        "rating_edLtLB",
-        "separator_mkzKJp",
-        "description_xJqkAY",
-        "variant_picker_WeQFWe",
-        "quantity_selector_NkhUTz",
-        "buy_buttons_VGyPhc",
-        "pickup_availability_HHGFQW"
+        "liquid_VUKxxj",
+        "title_ewGRaX",
+        "badges_RT7XtB",
+        "price_BNDVCm",
+        "liquid_4MRaMr",
+        "image_BtFRKc",
+        "rating_qDLgW6",
+        "separator_WhPrX7",
+        "description_pC9CxM",
+        "variant_picker_h7M3Ph",
+        "quantity_selector_A8TENc",
+        "image_LBYt4N",
+        "buy_buttons_q6aLCc",
+        "pickup_availability_NBRpbB",
+        "image_6irNRV"
       ],
       "name": "Featured product",
       "settings": {
@@ -443,19 +492,6 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "custom_liquid_h7QtRq": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>Trustpilot Stars</title> </head> <body> <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\"> <span style=\"font-size: 25px; font-weight: bold; color: #000;\">4.8</span> <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 120px; height: auto;\"> <span style=\"font-size: 23px; color: #555;\">(Noté 4.8 par +1000 Clientes )</span> </a> </body> </html>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -467,7 +503,7 @@
     "image_with_text_overlay_bDE8TF",
     "rich_text_JGQmwC",
     "multi_column_ChBWtg",
-    "featured_product_gH4DLf",
-    "custom_liquid_h7QtRq"
+    "custom_liquid_h7QtRq",
+    "featured_product_JChDQP"
   ]
 }
