@@ -647,6 +647,99 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "images_with_text_scrolling_dKfk8T": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_3fRtVK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.Modif3.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "TRANSFORMEZ VOTRE PEAU CRÊPÉE EN QUELQUES JOURS",
+            "content": "<p>Fatiguée de cacher vos bras et votre cou à cause d'une peau fine et ridée ? Ce crème   anti-âge  cible la cause profonde du vieillissement cutané, là où d'autres produits échouent. Certaines femmes jettent leurs chemises à manches longues après seulement quelques semaines d'utilisation.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_3fRtVK"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_hYfqgz": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_EC97ci": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.image.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "DITES ADIEU À LA PEAU FINE COMME DU PAPIER",
+            "content": "<p>Notre formule triple action pénètre en profondeur sous la surface, restaurant l'élasticité et la fermeté que les hydratants ordinaires ne peuvent pas toucher. 94 % des utilisateurs ont signalé une peau visiblement plus lisse et d'apparence plus jeune lors de nos tests consommateurs.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_EC97ci"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_CmKmxW": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_iPdRTL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SIKIVA.Image20.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "LE SECRET POUR DES BRAS ET UN COU SANS ÂGE",
+            "content": "<p>L'acide hyaluronique, le beurre de karité et les composés d'origine végétale agissent en synergie pour stimuler la production de collagène et réparer la barrière d'hydratation de votre peau. Plus qu'une simple hydratation, c'est une transformation complète de votre peau.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_iPdRTL"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -661,6 +754,9 @@
     "custom_liquid_h7QtRq",
     "featured_product_JChDQP",
     "tabs_d7EynE",
-    "multi_column_qCfa3X"
+    "multi_column_qCfa3X",
+    "images_with_text_scrolling_dKfk8T",
+    "images_with_text_scrolling_hYfqgz",
+    "images_with_text_scrolling_CmKmxW"
   ]
 }
