@@ -131,20 +131,6 @@
     },
     "rich_text_kfhV7A": {
       "type": "rich-text",
-      "blocks": {
-        "heading_Ket7nq": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisi Sikiva Crème?",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ket7nq"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
