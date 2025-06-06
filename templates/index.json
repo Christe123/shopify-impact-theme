@@ -734,7 +734,7 @@
         "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "start",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
