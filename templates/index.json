@@ -513,71 +513,6 @@
         "input_text_color": ""
       }
     },
-    "tabs_d7EynE": {
-      "type": "tabs",
-      "blocks": {
-        "tab_f83eCb": {
-          "type": "tab",
-          "settings": {
-            "title": "Description",
-            "content": "<p>Ce crème anti-âge  est une solution puissante spécialement formulée pour traiter l'apparence de la peau fine, ridée et rêche, souvent présente sur les bras, le cou et le décolleté. Notre formule exclusive triple action agit à plusieurs niveaux pour transformer visiblement la peau fripée, lui redonnant élasticité et fermeté tout en l'hydratant en profondeur. Ce soin concentré offre des résultats de qualité professionnelle sans produits chimiques nocifs. Arrêtez de vous cacher sous vos manches longues et retrouvez confiance en votre peau.</p>",
-            "page": ""
-          }
-        },
-        "tab_8jDwLz": {
-          "type": "tab",
-          "settings": {
-            "title": "Avantage",
-            "content": "<p>Avantages</p><ul><li><strong>Apparence instantanément plus lisse</strong> - Constatez une amélioration immédiate de la texture et de l'hydratation de la peau dès la première application</li><li><strong>Élimine la peau crépue</strong> - Cible et transforme spécifiquement la peau fine et semblable à du papier sur les bras, le cou et la poitrine</li><li><strong>Confiance en soi</strong> - Sentez-vous à nouveau à l'aise en portant des hauts sans manches et des cols en V sans gêne</li><li><strong>Formule naturelle efficace</strong> - À base d'acide hyaluronique, de beurre de karité, d'huile de carthame et d'aloe vera</li><li><strong>Hydratation profonde et durable</strong> - Contrairement aux solutions temporaires, notre formule pénètre plusieurs couches de la peau</li><li><strong>Stimule la production de collagène</strong> - S'attaque à la cause profonde de la peau crépue, pas seulement aux symptômes</li><li><strong>Sans danger pour les peaux sensibles</strong> - Ingrédients entièrement naturels et non toxiques, sans produits chimiques agressifs ni additifs artificiels</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_rqUaAx": {
-          "type": "tab",
-          "settings": {
-            "title": "Ingrédients",
-            "content": "<h5><strong>Ingrédients actifs</strong></h5><p>Acide hyaluronique, beurre de karité, huile de graines de carthame et aloe vera</p><h5><strong>Liste complète des ingrédients</strong></h5><p>Eau, jus de feuille d'Aloe Barbadensis (Aloe Vera), huile d'Olea Europaea (Olive), huile de Cocos Nucifera (Noix de coco), huile de noyau de Prunus Armeniaca (Abricot), cire émulsifiante, glycérine, alcool cétylique, phénoxyéthanol, acide benzoïque, éthylhexylglycérine, Glycereth-2 Cocoate, beurre de Butyrospermum Parkii (Karité), acide stéarique, collagène soluble, huile de graines de Ricinus Communis (Ricin), acide glycolique, acide hyaluronique, huile de graines de Macadamia Integrifolia, huile de graines de Plukenetia Volubilis (Sacha Inchi), benzoate de sodium, tocophérol, extrait de miel</p><p><strong>Libre de</strong></p><p>Parabènes, phtalates, sulfates, parfums synthétiques, colorants artificiels, produits chimiques agressifs et ingrédients OGM</p><p><strong>Notre formule est :</strong></p><p>Non gras, absorption rapide, convient aux peaux sensibles, sans cruauté et testé dermatologiquement</p>",
-            "page": ""
-          }
-        },
-        "tab_bjEhpE": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@sikiva.com</p>",
-            "page": ""
-          }
-        },
-        "tab_wePrWT": {
-          "type": "tab",
-          "settings": {
-            "title": "30 jours satisfait ou remboursé",
-            "content": "<p>Essayer Sikiva crème anti-âge  sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander<strong>un remboursement intégral</strong>.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_f83eCb",
-        "tab_8jDwLz",
-        "tab_rqUaAx",
-        "tab_bjEhpE",
-        "tab_wePrWT"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "first_tab_open": false,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_qCfa3X": {
       "type": "multi-column",
       "blocks": {
@@ -586,7 +521,7 @@
           "settings": {
             "image": "shopify://shop_images/image_3_2.webp",
             "column_size": "3",
-            "title": "Peptides de collagène",
+            "title": "",
             "heading_tag": "h4",
             "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
             "link_url": "",
@@ -653,6 +588,161 @@
         "item_dMLGie",
         "item_zXVgf3",
         "item_XhQG4N"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "tabs_d7EynE": {
+      "type": "tabs",
+      "blocks": {
+        "tab_f83eCb": {
+          "type": "tab",
+          "settings": {
+            "title": "Description",
+            "content": "<p>Ce crème anti-âge  est une solution puissante spécialement formulée pour traiter l'apparence de la peau fine, ridée et rêche, souvent présente sur les bras, le cou et le décolleté. Notre formule exclusive triple action agit à plusieurs niveaux pour transformer visiblement la peau fripée, lui redonnant élasticité et fermeté tout en l'hydratant en profondeur. Ce soin concentré offre des résultats de qualité professionnelle sans produits chimiques nocifs. Arrêtez de vous cacher sous vos manches longues et retrouvez confiance en votre peau.</p>",
+            "page": ""
+          }
+        },
+        "tab_8jDwLz": {
+          "type": "tab",
+          "settings": {
+            "title": "Avantage",
+            "content": "<p>Avantages</p><ul><li><strong>Apparence instantanément plus lisse</strong> - Constatez une amélioration immédiate de la texture et de l'hydratation de la peau dès la première application</li><li><strong>Élimine la peau crépue</strong> - Cible et transforme spécifiquement la peau fine et semblable à du papier sur les bras, le cou et la poitrine</li><li><strong>Confiance en soi</strong> - Sentez-vous à nouveau à l'aise en portant des hauts sans manches et des cols en V sans gêne</li><li><strong>Formule naturelle efficace</strong> - À base d'acide hyaluronique, de beurre de karité, d'huile de carthame et d'aloe vera</li><li><strong>Hydratation profonde et durable</strong> - Contrairement aux solutions temporaires, notre formule pénètre plusieurs couches de la peau</li><li><strong>Stimule la production de collagène</strong> - S'attaque à la cause profonde de la peau crépue, pas seulement aux symptômes</li><li><strong>Sans danger pour les peaux sensibles</strong> - Ingrédients entièrement naturels et non toxiques, sans produits chimiques agressifs ni additifs artificiels</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_rqUaAx": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<h5><strong>Ingrédients actifs</strong></h5><p>Acide hyaluronique, beurre de karité, huile de graines de carthame et aloe vera</p><h5><strong>Liste complète des ingrédients</strong></h5><p>Eau, jus de feuille d'Aloe Barbadensis (Aloe Vera), huile d'Olea Europaea (Olive), huile de Cocos Nucifera (Noix de coco), huile de noyau de Prunus Armeniaca (Abricot), cire émulsifiante, glycérine, alcool cétylique, phénoxyéthanol, acide benzoïque, éthylhexylglycérine, Glycereth-2 Cocoate, beurre de Butyrospermum Parkii (Karité), acide stéarique, collagène soluble, huile de graines de Ricinus Communis (Ricin), acide glycolique, acide hyaluronique, huile de graines de Macadamia Integrifolia, huile de graines de Plukenetia Volubilis (Sacha Inchi), benzoate de sodium, tocophérol, extrait de miel</p><p><strong>Libre de</strong></p><p>Parabènes, phtalates, sulfates, parfums synthétiques, colorants artificiels, produits chimiques agressifs et ingrédients OGM</p><p><strong>Notre formule est :</strong></p><p>Non gras, absorption rapide, convient aux peaux sensibles, sans cruauté et testé dermatologiquement</p>",
+            "page": ""
+          }
+        },
+        "tab_bjEhpE": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@sikiva.com</p>",
+            "page": ""
+          }
+        },
+        "tab_wePrWT": {
+          "type": "tab",
+          "settings": {
+            "title": "30 jours satisfait ou remboursé",
+            "content": "<p>Essayer Sikiva crème anti-âge  sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander<strong>un remboursement intégral</strong>.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_f83eCb",
+        "tab_8jDwLz",
+        "tab_rqUaAx",
+        "tab_bjEhpE",
+        "tab_wePrWT"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "multi_column_jWk4EH": {
+      "type": "multi-column",
+      "blocks": {
+        "item_m7qyep": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_2.webp",
+            "column_size": "3",
+            "title": "Peptides de collagène",
+            "heading_tag": "h4",
+            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YxkM7F": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/elastyn.webp",
+            "column_size": "3",
+            "title": "Élastine",
+            "heading_tag": "h4",
+            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KnD4Rr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_4.webp",
+            "column_size": "3",
+            "title": "Acide hyaluronique",
+            "heading_tag": "h4",
+            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zkdW3h": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_1.webp",
+            "column_size": "3",
+            "title": "Glycérine",
+            "heading_tag": "h4",
+            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9nJxkR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/squalane_6.png",
+            "column_size": "3",
+            "title": "Squalane",
+            "heading_tag": "h4",
+            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_m7qyep",
+        "item_YxkM7F",
+        "item_KnD4Rr",
+        "item_zkdW3h",
+        "item_9nJxkR"
       ],
       "name": "Multi-column",
       "settings": {
@@ -878,6 +968,65 @@
         "accordion_text_color": ""
       }
     },
+    "multi_column_Wmj6b6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_b4Vggm": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FV36qY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_D6BHiA": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_b4Vggm",
+        "item_FV36qY",
+        "item_D6BHiA"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_7tT8Qm": {
       "type": "contact",
       "name": "Contact form",
@@ -964,65 +1113,6 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
-    },
-    "multi_column_Wmj6b6": {
-      "type": "multi-column",
-      "blocks": {
-        "item_b4Vggm": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_FV36qY": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_D6BHiA": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_b4Vggm",
-        "item_FV36qY",
-        "item_D6BHiA"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -1036,8 +1126,9 @@
     "rich_text_JGQmwC",
     "multi_column_ChBWtg",
     "featured_product_JChDQP",
-    "tabs_d7EynE",
     "multi_column_qCfa3X",
+    "tabs_d7EynE",
+    "multi_column_jWk4EH",
     "images_with_text_scrolling_dKfk8T",
     "images_with_text_scrolling_hYfqgz",
     "images_with_text_scrolling_CmKmxW",
