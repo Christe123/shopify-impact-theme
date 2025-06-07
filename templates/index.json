@@ -964,6 +964,65 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "multi_column_Wmj6b6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_b4Vggm": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FV36qY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_D6BHiA": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_b4Vggm",
+        "item_FV36qY",
+        "item_D6BHiA"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -983,6 +1042,7 @@
     "images_with_text_scrolling_hYfqgz",
     "images_with_text_scrolling_CmKmxW",
     "faq_tan8yJ",
+    "multi_column_Wmj6b6",
     "contact_7tT8Qm",
     "1749305013cee25ff0",
     "17493092625fa9f2c5"
