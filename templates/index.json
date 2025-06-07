@@ -518,12 +518,12 @@
       "blocks": {
         "item_CBMdfH": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/image_3_2.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Stimulent la production de collagène pour une peau plus ferme et élastique. Réduisent l’apparence des ridules et des rides. Soutiennent la structure de la peau et lissent la texture.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
