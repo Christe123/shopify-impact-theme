@@ -11,6 +11,7 @@
   "sections": {
     "slideshow": {
       "type": "slideshow",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
