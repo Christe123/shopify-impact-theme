@@ -409,6 +409,12 @@
             "max_width": 500
           }
         },
+        "text_dFizPg": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>ÉLU #1 DES ANTI-RIDES 2025  🇫🇷</strong></p>"
+          }
+        },
         "kaching_bundles_app_block_Tcezcj": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -484,6 +490,7 @@
         "price_BNDVCm",
         "liquid_4MRaMr",
         "image_BtFRKc",
+        "text_dFizPg",
         "kaching_bundles_app_block_Tcezcj",
         "rating_qDLgW6",
         "separator_WhPrX7",
