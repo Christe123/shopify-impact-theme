@@ -532,24 +532,24 @@
         "item_UjiiTG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/elastyn.webp",
-            "column_size": "3",
-            "title": "Élastine",
-            "heading_tag": "h4",
-            "content": "<p>Complément naturel du collagène, elle assure souplesse et élasticité à la peau, prévenant le relâchement cutané et aidant à maintenir un teint rebondi et résilient face aux agressions extérieures.</p>",
+            "video": "shopify://files/videos/0608.mov",
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h5",
+            "content": "",
             "link_url": "",
             "link_text": "",
-            "link_style": "link"
+            "link_style": "button"
           }
         },
         "item_dMLGie": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_4.webp",
+            "video": "shopify://files/videos/0608(2).mov",
             "column_size": "3",
-            "title": "Acide hyaluronique",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Hydratation en profondeur. Favorise la réparation et la régénération de la peau. Repulpe la peau et réduit l’apparence des ridules et des rides.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -559,10 +559,11 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/image_3_1.webp",
+            "video": "shopify://files/videos/0608(3).mov",
             "column_size": "3",
-            "title": "Glycérine",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Renforce la barrière protectrice naturelle de la peau. Lisse et adoucit la peau. Protège contre la sécheresse et les irritations.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -572,10 +573,11 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/squalane_6.png",
+            "video": "shopify://files/videos/0608(4).mov",
             "column_size": "3",
-            "title": "Squalane",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Un puissant émollient naturel qui restaure la barrière cutanée, nourrit intensément sans effet gras, protège contre la déshydratation et aide la peau à retrouver douceur et éclat naturel.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -589,13 +591,12 @@
         "item_zXVgf3",
         "item_XhQG4N"
       ],
-      "disabled": true,
       "name": "Multi-column",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
+        "gap": "small",
+        "text_alignment": "start",
         "subheading": "",
         "title": "",
         "content": "",
