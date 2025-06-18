@@ -149,6 +149,7 @@
           "type": "video",
           "settings": {
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "preload_video": "shopify://files/videos/fa4e43ddeaad45d398070837ef01cefa.HD-1080p-2.5Mbps-45788646.mp4",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
           }
@@ -157,14 +158,7 @@
           "type": "video",
           "settings": {
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
-          }
-        },
-        "video_7GNLEy": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "preload_video": "shopify://files/videos/bc525f1e12364f11b152592b95e70e07.HD-720p-1.6Mbps-45788648.mp4",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
           }
@@ -174,8 +168,7 @@
         "video_3VpP8Y",
         "video_tJkMYw",
         "video_KpwepX",
-        "video_kmHr3e",
-        "video_7GNLEy"
+        "video_kmHr3e"
       ],
       "name": "SS - Product Videos",
       "settings": {
