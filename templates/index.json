@@ -224,6 +224,31 @@
         "text_color": ""
       }
     },
+    "before_after_image_U3i6RB": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/SIKIVA.AVANT4.jpg",
+        "after_image": "shopify://shop_images/SIKIVA.AVANT4_2.jpg",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "multi_column_ChBWtg": {
       "type": "multi-column",
       "blocks": {
@@ -780,71 +805,6 @@
         "text_color": ""
       }
     },
-    "tabs_d7EynE": {
-      "type": "tabs",
-      "blocks": {
-        "tab_f83eCb": {
-          "type": "tab",
-          "settings": {
-            "title": "Description",
-            "content": "<p>Ce crème anti-âge  est une solution puissante spécialement formulée pour traiter l'apparence de la peau fine, ridée et rêche, souvent présente sur les bras, le cou et le décolleté. Notre formule exclusive triple action agit à plusieurs niveaux pour transformer visiblement la peau fripée, lui redonnant élasticité et fermeté tout en l'hydratant en profondeur. Ce soin concentré offre des résultats de qualité professionnelle sans produits chimiques nocifs. Arrêtez de vous cacher sous vos manches longues et retrouvez confiance en votre peau.</p>",
-            "page": ""
-          }
-        },
-        "tab_8jDwLz": {
-          "type": "tab",
-          "settings": {
-            "title": "Avantage",
-            "content": "<p>Avantages</p><ul><li><strong>Apparence instantanément plus lisse</strong> - Constatez une amélioration immédiate de la texture et de l'hydratation de la peau dès la première application</li><li><strong>Élimine la peau crépue</strong> - Cible et transforme spécifiquement la peau fine et semblable à du papier sur les bras, le cou et la poitrine</li><li><strong>Confiance en soi</strong> - Sentez-vous à nouveau à l'aise en portant des hauts sans manches et des cols en V sans gêne</li><li><strong>Formule naturelle efficace</strong> - À base d'acide hyaluronique, de beurre de karité, d'huile de carthame et d'aloe vera</li><li><strong>Hydratation profonde et durable</strong> - Contrairement aux solutions temporaires, notre formule pénètre plusieurs couches de la peau</li><li><strong>Stimule la production de collagène</strong> - S'attaque à la cause profonde de la peau crépue, pas seulement aux symptômes</li><li><strong>Sans danger pour les peaux sensibles</strong> - Ingrédients entièrement naturels et non toxiques, sans produits chimiques agressifs ni additifs artificiels</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_rqUaAx": {
-          "type": "tab",
-          "settings": {
-            "title": "Ingrédients",
-            "content": "<h5><strong>Ingrédients actifs</strong></h5><p>Acide hyaluronique, beurre de karité, huile de graines de carthame et aloe vera</p><h5><strong>Liste complète des ingrédients</strong></h5><p>Eau, jus de feuille d'Aloe Barbadensis (Aloe Vera), huile d'Olea Europaea (Olive), huile de Cocos Nucifera (Noix de coco), huile de noyau de Prunus Armeniaca (Abricot), cire émulsifiante, glycérine, alcool cétylique, phénoxyéthanol, acide benzoïque, éthylhexylglycérine, Glycereth-2 Cocoate, beurre de Butyrospermum Parkii (Karité), acide stéarique, collagène soluble, huile de graines de Ricinus Communis (Ricin), acide glycolique, acide hyaluronique, huile de graines de Macadamia Integrifolia, huile de graines de Plukenetia Volubilis (Sacha Inchi), benzoate de sodium, tocophérol, extrait de miel</p><p><strong>Libre de</strong></p><p>Parabènes, phtalates, sulfates, parfums synthétiques, colorants artificiels, produits chimiques agressifs et ingrédients OGM</p><p><strong>Notre formule est :</strong></p><p>Non gras, absorption rapide, convient aux peaux sensibles, sans cruauté et testé dermatologiquement</p>",
-            "page": ""
-          }
-        },
-        "tab_bjEhpE": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@sikiva.com</p>",
-            "page": ""
-          }
-        },
-        "tab_wePrWT": {
-          "type": "tab",
-          "settings": {
-            "title": "30 jours satisfait ou remboursé",
-            "content": "<p>Essayer Sikiva crème anti-âge  sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander<strong>un remboursement intégral</strong>.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_f83eCb",
-        "tab_8jDwLz",
-        "tab_rqUaAx",
-        "tab_bjEhpE",
-        "tab_wePrWT"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "first_tab_open": false,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_jWk4EH": {
       "type": "multi-column",
       "blocks": {
@@ -933,6 +893,71 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "tabs_d7EynE": {
+      "type": "tabs",
+      "blocks": {
+        "tab_f83eCb": {
+          "type": "tab",
+          "settings": {
+            "title": "Description",
+            "content": "<p>Ce crème anti-âge  est une solution puissante spécialement formulée pour traiter l'apparence de la peau fine, ridée et rêche, souvent présente sur les bras, le cou et le décolleté. Notre formule exclusive triple action agit à plusieurs niveaux pour transformer visiblement la peau fripée, lui redonnant élasticité et fermeté tout en l'hydratant en profondeur. Ce soin concentré offre des résultats de qualité professionnelle sans produits chimiques nocifs. Arrêtez de vous cacher sous vos manches longues et retrouvez confiance en votre peau.</p>",
+            "page": ""
+          }
+        },
+        "tab_8jDwLz": {
+          "type": "tab",
+          "settings": {
+            "title": "Avantage",
+            "content": "<p>Avantages</p><ul><li><strong>Apparence instantanément plus lisse</strong> - Constatez une amélioration immédiate de la texture et de l'hydratation de la peau dès la première application</li><li><strong>Élimine la peau crépue</strong> - Cible et transforme spécifiquement la peau fine et semblable à du papier sur les bras, le cou et la poitrine</li><li><strong>Confiance en soi</strong> - Sentez-vous à nouveau à l'aise en portant des hauts sans manches et des cols en V sans gêne</li><li><strong>Formule naturelle efficace</strong> - À base d'acide hyaluronique, de beurre de karité, d'huile de carthame et d'aloe vera</li><li><strong>Hydratation profonde et durable</strong> - Contrairement aux solutions temporaires, notre formule pénètre plusieurs couches de la peau</li><li><strong>Stimule la production de collagène</strong> - S'attaque à la cause profonde de la peau crépue, pas seulement aux symptômes</li><li><strong>Sans danger pour les peaux sensibles</strong> - Ingrédients entièrement naturels et non toxiques, sans produits chimiques agressifs ni additifs artificiels</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_rqUaAx": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<h5><strong>Ingrédients actifs</strong></h5><p>Acide hyaluronique, beurre de karité, huile de graines de carthame et aloe vera</p><h5><strong>Liste complète des ingrédients</strong></h5><p>Eau, jus de feuille d'Aloe Barbadensis (Aloe Vera), huile d'Olea Europaea (Olive), huile de Cocos Nucifera (Noix de coco), huile de noyau de Prunus Armeniaca (Abricot), cire émulsifiante, glycérine, alcool cétylique, phénoxyéthanol, acide benzoïque, éthylhexylglycérine, Glycereth-2 Cocoate, beurre de Butyrospermum Parkii (Karité), acide stéarique, collagène soluble, huile de graines de Ricinus Communis (Ricin), acide glycolique, acide hyaluronique, huile de graines de Macadamia Integrifolia, huile de graines de Plukenetia Volubilis (Sacha Inchi), benzoate de sodium, tocophérol, extrait de miel</p><p><strong>Libre de</strong></p><p>Parabènes, phtalates, sulfates, parfums synthétiques, colorants artificiels, produits chimiques agressifs et ingrédients OGM</p><p><strong>Notre formule est :</strong></p><p>Non gras, absorption rapide, convient aux peaux sensibles, sans cruauté et testé dermatologiquement</p>",
+            "page": ""
+          }
+        },
+        "tab_bjEhpE": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@sikiva.com</p>",
+            "page": ""
+          }
+        },
+        "tab_wePrWT": {
+          "type": "tab",
+          "settings": {
+            "title": "30 jours satisfait ou remboursé",
+            "content": "<p>Essayer Sikiva crème anti-âge  sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de le demander<strong>un remboursement intégral</strong>.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_f83eCb",
+        "tab_8jDwLz",
+        "tab_rqUaAx",
+        "tab_bjEhpE",
+        "tab_wePrWT"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "images_with_text_scrolling_dKfk8T": {
@@ -1245,6 +1270,7 @@
     "rich_text_JHDcen",
     "image_with_text_overlay_bDE8TF",
     "rich_text_JGQmwC",
+    "before_after_image_U3i6RB",
     "multi_column_ChBWtg",
     "featured_product_JChDQP",
     "sectionvideo_e8xKPK",
