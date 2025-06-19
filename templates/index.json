@@ -412,7 +412,7 @@
         "text_dFizPg": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>ÉLU #1 DES ANTI-RIDES 2025  🇫🇷</strong></p>"
+            "text": ""
           }
         },
         "kaching_bundles_app_block_Tcezcj": {
@@ -478,7 +478,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/badge_confianc_CTA.webp",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
