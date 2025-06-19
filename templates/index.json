@@ -952,6 +952,7 @@
       "block_order": [
         "item_3fRtVK"
       ],
+      "disabled": true,
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
@@ -983,6 +984,7 @@
       "block_order": [
         "item_EC97ci"
       ],
+      "disabled": true,
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
@@ -1014,6 +1016,7 @@
       "block_order": [
         "item_iPdRTL"
       ],
+      "disabled": true,
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
@@ -1246,8 +1249,8 @@
     "featured_product_JChDQP",
     "sectionvideo_e8xKPK",
     "multi_column_qCfa3X",
-    "tabs_d7EynE",
     "multi_column_jWk4EH",
+    "tabs_d7EynE",
     "images_with_text_scrolling_dKfk8T",
     "images_with_text_scrolling_hYfqgz",
     "images_with_text_scrolling_CmKmxW",
