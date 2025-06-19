@@ -405,7 +405,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/SIKIVA.offre2png.jpg",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
@@ -455,7 +455,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Offre2.jpg",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
